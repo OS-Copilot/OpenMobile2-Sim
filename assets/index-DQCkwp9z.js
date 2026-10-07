@@ -1,0 +1,1 @@
+import{a$ as t,bo as a}from"./index-Ct11ulzt.js";import{bp as u}from"./index-Ct11ulzt.js";const r=t("baicizhan",()=>a.getState(),"words","books");function i(o,e){return r(o,e)}export{u as BAICIZHAN_TOOL_DEFINITIONS,i as executeBaicizhanTool};

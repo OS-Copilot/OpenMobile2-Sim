@@ -1,0 +1,1 @@
+import{a$ as t,bW as r}from"./index-Ct11ulzt.js";import{bX as u}from"./index-Ct11ulzt.js";const s=t("vipshop",()=>r.getState(),"items","brands");function p(e,o){return s(e,o)}export{u as VIPSHOP_TOOL_DEFINITIONS,p as executeVipshopTool};

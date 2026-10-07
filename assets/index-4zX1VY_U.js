@@ -1,0 +1,1 @@
+import{a$ as t,bw as r}from"./index-Ct11ulzt.js";import{bx as x}from"./index-Ct11ulzt.js";const a=t("didi",()=>r.getState(),"orders","coupons");function c(e,o){return a(e,o)}export{x as DIDI_TOOL_DEFINITIONS,c as executeDidiTool};

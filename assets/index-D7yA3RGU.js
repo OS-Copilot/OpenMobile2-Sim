@@ -1,0 +1,1 @@
+import{a$ as o,b0 as t}from"./index-Ct11ulzt.js";import{b1 as b}from"./index-Ct11ulzt.js";const r=o("bilibili2",()=>t.getState(),"videos","messages");function l(e,i){return r(e,i)}export{b as BILIBILI2_TOOL_DEFINITIONS,l as executeBilibiliV2Tool};

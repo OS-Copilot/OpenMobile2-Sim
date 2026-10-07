@@ -1,0 +1,1 @@
+import{b3 as e,dR as t}from"./index-Ct11ulzt.js";function u(){const[r,s]=e.useState(()=>t.getState().darkModeEnabled);return e.useEffect(()=>t.subscribe(a=>{s(a.darkModeEnabled)}),[]),{isDark:r}}export{u};

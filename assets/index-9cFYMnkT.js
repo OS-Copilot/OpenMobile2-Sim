@@ -1,0 +1,1 @@
+import{a$ as t,c2 as o}from"./index-Ct11ulzt.js";import{c3 as u}from"./index-Ct11ulzt.js";const r=t("ximalaya",()=>o.getState(),"albums","tracks");function l(a,e){return r(a,e)}export{u as XIMALAYA_TOOL_DEFINITIONS,l as executeXimalayaTool};

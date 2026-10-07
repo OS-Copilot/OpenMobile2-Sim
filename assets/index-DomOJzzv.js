@@ -1,0 +1,1 @@
+import{a$ as t,bC as a}from"./index-Ct11ulzt.js";import{bD as c}from"./index-Ct11ulzt.js";const r=t("fanqiexiaoshuo",()=>a.getState(),"books","authors");function u(o,e){return r(o,e)}export{c as FANQIEXIAOSHUO_TOOL_DEFINITIONS,u as executeFanqieXiaoshuoTool};

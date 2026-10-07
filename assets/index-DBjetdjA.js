@@ -1,0 +1,1 @@
+import{a$ as t,c4 as a,c5 as u}from"./index-Ct11ulzt.js";import{c6 as x}from"./index-Ct11ulzt.js";const r=t("youku",()=>({...a,...u.getState()}),"catalog","ranks");function s(o,e){return r(o,e)}export{x as YOUKU_TOOL_DEFINITIONS,s as executeYoukuTool};

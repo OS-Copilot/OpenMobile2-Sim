@@ -1,0 +1,1 @@
+import{a$ as e,c0 as a}from"./index-Ct11ulzt.js";import{c1 as u}from"./index-Ct11ulzt.js";const r=e("xiaorichang",()=>a.getState(),"habits","todos");function i(o,t){return r(o,t)}export{u as XIAORICHANG_TOOL_DEFINITIONS,i as executeXiaorichangTool};

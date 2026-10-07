@@ -1,0 +1,1 @@
+import{a$ as s,bq as t,br as r}from"./index-Ct11ulzt.js";import{bs as b}from"./index-Ct11ulzt.js";const a=s("boss",()=>({...t,...r.getState()}),"jobs","companies");function S(o,e){return a(o,e)}export{b as BOSS_TOOL_DEFINITIONS,S as executeBossTool};

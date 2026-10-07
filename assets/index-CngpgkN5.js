@@ -1,0 +1,1 @@
+import{a$ as t,bR as r,bS as n}from"./index-Ct11ulzt.js";import{bT as N}from"./index-Ct11ulzt.js";const u=t("suning",()=>({...r,...n.getState()}),"products","orders");function s(e,o){return u(e,o)}export{N as SUNING_TOOL_DEFINITIONS,s as executeSuningTool};

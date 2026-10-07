@@ -1,0 +1,1 @@
+import{a$ as t,bY as r}from"./index-Ct11ulzt.js";import{bZ as i}from"./index-Ct11ulzt.js";const a=t("weibo",()=>r.getState(),"statuses","hotWords");function u(e,o){return a(e,o)}export{i as WEIBO_TOOL_DEFINITIONS,u as executeWeiboTool};

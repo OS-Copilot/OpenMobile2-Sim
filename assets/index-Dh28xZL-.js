@@ -1,0 +1,1 @@
+import{a$ as t,bt as e,bu as r}from"./index-Ct11ulzt.js";import{bv as u}from"./index-Ct11ulzt.js";const i=t("cainiao",()=>({...e,...r.getState()}),"packages","stations");function c(a,o){return i(a,o)}export{u as CAINIAO_TOOL_DEFINITIONS,c as executeCainiaoTool};

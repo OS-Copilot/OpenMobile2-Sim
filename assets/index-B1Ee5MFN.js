@@ -1,0 +1,1 @@
+import{a$ as o,bK as a,bL as r}from"./index-Ct11ulzt.js";import{bM as T}from"./index-Ct11ulzt.js";const u=o("meituan",()=>({...a,...r.getState()}),"restaurants","orders");function n(e,t){return u(e,t)}export{T as MEITUAN_TOOL_DEFINITIONS,n as executeMeituanTool};

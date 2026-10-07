@@ -1,0 +1,1 @@
+import{a$ as o,bU as n}from"./index-Ct11ulzt.js";import{bV as i}from"./index-Ct11ulzt.js";const r=o("tencentvideo",()=>n.getState(),"contents","rankings");function a(e,t){return r(e,t)}export{i as TENCENTVIDEO_TOOL_DEFINITIONS,a as executeTencentvideoTool};

@@ -1,0 +1,1 @@
+import{a$ as t,bE as r}from"./index-Ct11ulzt.js";import{bF as u}from"./index-Ct11ulzt.js";const a=t("flomo",()=>r.getState(),"memos","tags");function s(o,e){return a(o,e)}export{u as FLOMO_TOOL_DEFINITIONS,s as executeFlomoTool};
